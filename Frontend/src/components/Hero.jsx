@@ -30,7 +30,7 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className='text-[#915EFF]'>FRIDAY</span>
+            Hi, I'm <span className='text-[#915EFF]'>AURA</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
              Ai chatbot with 3D Avatar using <br className='sm:block hidden' />
